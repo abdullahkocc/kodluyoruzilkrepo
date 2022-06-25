@@ -27,5 +27,5 @@ code .
 
 # License
 
-* (https://choosealicense.com/licenses/mit/) 
+* https://choosealicense.com/licenses/mit/ 
 
