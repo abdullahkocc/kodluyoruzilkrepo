@@ -7,7 +7,7 @@
 
 * Öncelikle projeyi clonelayın. (https://github.com/abdullahkocc/kodluyoruzilkrepo.git)
 
-* git clone https://github.com/abdullahkocc/kodluyoruzilkrepo.git
+* [git clone](https://github.com/abdullahkocc/kodluyoruzilkrepo.git)
 
 
 # Usage
